@@ -429,3 +429,8 @@ net-libs/webkit-gtk -gles2
 # required by dev-util/netbeans-8.2::gentoo[netbeans_modules_javafx]
 # required by netbeans (argument)
 >=dev-java/oracle-jdk-bin-1.8.0.121 javafx
+# required by dev-python/translate-toolkit-2.0.0::gentoo[python_targets_python3_4]
+# required by kde-apps/lokalize-16.12.3::gentoo
+# required by kde-apps/kdesdk-meta-16.12.3::gentoo
+# required by kde-apps/kdesdk-meta (argument)
+>=dev-lang/python-3.4.6:3.4 sqlite
