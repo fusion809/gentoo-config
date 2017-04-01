@@ -14,3 +14,5 @@
 # required by dev-util/netbeans-8.2::gentoo[netbeans_modules_javafx]
 # required by netbeans (argument)
 >=dev-java/oracle-jdk-bin-1.8.0.121 Oracle-BCLA-JavaSE
+# required by urbanterror (argument)
+>=games-fps/urbanterror-4.2.023 Q3AEULA-20000111
