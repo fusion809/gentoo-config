@@ -70,3 +70,12 @@ dev-java/xmldb source
 # required by games-strategy/megaglest-3.12.0::games-overlay
 # required by games-strategy/megaglest-data-3.12.0::games-overlay
 >=media-libs/libsdl2-2.0.5 haptic
+# required by www-client/chromium-58.0.3029.19::gentoo
+# required by chromium (argument)
+>=dev-libs/libxml2-2.9.4-r1 icu
+# required by www-client/chromium-57.0.2987.133::fusion809[system-libvpx]
+# required by =www-client/chromium-57.0.2987.133 (argument)
+>=media-libs/libvpx-1.6.1 postproc
+# required by media-video/cheese-3.22.1::gentoo
+# required by cheese (argument)
+>=media-libs/gst-plugins-base-1.10.4 theora
