@@ -113,3 +113,7 @@ dev-java/xmldb source
 # required by sci-mathematics/sage-7.6::sage-on-gentoo
 # required by sage (argument)
 >=sci-mathematics/eclib-20170330 flint
+# required by media-sound/pulseaudio-10.0::gentoo[alsa,alsa-plugin]
+# required by media-sound/blockify-3.6.3::fusion809
+# required by blockify (argument)
+>=media-plugins/alsa-plugins-1.1.1 pulseaudio
