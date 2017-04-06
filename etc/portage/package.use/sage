@@ -1,5 +1,5 @@
 # Sage USE flags
-sci-mathematics/sage doc-html -doc-html-bin doc-pdf latex modular_decomposition sagenb
+sci-mathematics/sage doc-html -doc-html-bin doc-pdf -doc-pdf-bin latex modular_decomposition sagenb
 # required by sci-mathematics/sage-7.6::sage-on-gentoo
 # required by sage (argument)
 >=sci-mathematics/lcalc-1.23-r7 pari
