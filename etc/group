@@ -46,9 +46,10 @@ systemd-coredump:x:237:
 polkitd:x:236:
 lpadmin:x:106:
 plugdev:x:105:
-sddm:x:104:
+sddm:x:104:fusion809
 geoclue:x:103:
 mysql:x:60:
 mail:x:12:
 postmaster:x:102:
 nullmail:x:88:
+vboxusers:x:101:

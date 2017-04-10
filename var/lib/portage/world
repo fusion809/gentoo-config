@@ -1,6 +1,7 @@
 app-accessibility/onboard
 app-admin/eselect::gentoo
 app-admin/sudo
+app-arch/dpkg
 app-editors/atom-bin
 app-editors/brackets-bin
 app-editors/notepadqq
@@ -9,6 +10,7 @@ app-editors/sublime-text
 app-editors/textadept
 app-editors/vim
 app-editors/visual-studio-code
+app-emulation/virtualbox
 app-eselect/eselect-blas
 app-eselect/eselect-cblas
 app-eselect/eselect-lapack
@@ -23,6 +25,7 @@ dev-java/icedtea-bin
 dev-java/oracle-jdk-bin
 dev-java/swingx-ws
 dev-lang/perl
+dev-libs/libixion
 dev-perl/Locale-gettext
 dev-perl/Module-Build
 dev-perl/SGMLSpm
@@ -47,9 +50,12 @@ games-strategy/0ad
 games-strategy/openra
 games-util/steam-launcher
 kde-apps/kde-apps-meta
+kde-apps/kmix
 kde-apps/konsole
+kde-misc/yakuake
 kde-plasma/plasma-meta
 media-gfx/gimp
+media-sound/alsa-utils
 media-sound/blockify
 media-sound/spotify
 media-video/vlc
@@ -61,6 +67,7 @@ net-print/cups-filters
 net-wireless/broadcom-sta
 perl-core/File-Temp
 sci-mathematics/octave
+sci-mathematics/wxmaxima
 sys-apps/dbus
 sys-apps/lm_sensors
 sys-apps/pacman
@@ -99,4 +106,5 @@ x11-misc/tint2
 x11-misc/virtualgl
 x11-misc/xclip
 x11-terms/xterm
+x11-themes/gentoo-artwork
 x11-wm/openbox
