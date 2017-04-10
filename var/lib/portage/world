@@ -60,6 +60,7 @@ media-sound/blockify
 media-sound/spotify
 media-video/vlc
 net-im/messengerfordesktop-bin
+net-irc/konversation
 net-misc/keychain
 net-misc/networkmanager
 net-misc/youtube-dl
