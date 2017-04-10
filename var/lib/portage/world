@@ -2,7 +2,13 @@ app-accessibility/onboard
 app-admin/eselect::gentoo
 app-admin/sudo
 app-editors/atom-bin
+app-editors/brackets-bin
+app-editors/notepadqq
+app-editors/scite
+app-editors/sublime-text
+app-editors/textadept
 app-editors/vim
+app-editors/visual-studio-code
 app-eselect/eselect-blas
 app-eselect/eselect-cblas
 app-eselect/eselect-lapack
@@ -39,8 +45,13 @@ games-arcade/supertux
 games-rpg/runescape-launcher::fusion809
 games-strategy/0ad
 games-strategy/openra
+games-util/steam-launcher
+kde-apps/kde-apps-meta
 kde-apps/konsole
+kde-plasma/plasma-meta
 media-gfx/gimp
+media-sound/blockify
+media-sound/spotify
 media-video/vlc
 net-im/messengerfordesktop-bin
 net-misc/keychain
@@ -75,6 +86,7 @@ virtual/perl-Parse-CPAN-Meta
 virtual/perl-Perl-OSType
 virtual/perl-Test-Harness
 virtual/perl-Text-ParseWords
+www-client/firefox
 www-client/google-chrome
 www-client/w3m
 x11-apps/mesa-progs

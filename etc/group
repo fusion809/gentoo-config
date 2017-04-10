@@ -13,7 +13,7 @@ floppy:x:11:root
 news:x:13:news
 uucp:x:14:uucp
 console:x:17:
-audio:x:18:
+audio:x:18:fusion809
 cdrom:x:19:
 dialout:x:20:
 tape:x:26:root
