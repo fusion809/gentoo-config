@@ -4,6 +4,8 @@ app-admin/sudo
 app-arch/dpkg
 app-editors/atom-bin
 app-editors/brackets-bin
+app-editors/gvim
+app-editors/nano
 app-editors/notepadqq
 app-editors/scite
 app-editors/sublime-text
@@ -11,9 +13,11 @@ app-editors/textadept
 app-editors/vim
 app-editors/visual-studio-code
 app-emulation/virtualbox
+app-emulation/wine-staging
 app-eselect/eselect-blas
 app-eselect/eselect-cblas
 app-eselect/eselect-lapack
+app-office/libreoffice
 app-portage/gentoolkit
 app-portage/layman
 app-shells/zsh
@@ -24,6 +28,7 @@ app-text/wgetpaste
 dev-java/icedtea-bin
 dev-java/oracle-jdk-bin
 dev-java/swingx-ws
+dev-lang/mono
 dev-lang/perl
 dev-libs/libixion
 dev-perl/Locale-gettext
@@ -40,6 +45,7 @@ dev-util/codeblocks
 dev-util/codelite
 dev-util/eclipse-cpp-bin
 dev-util/gperf
+dev-util/kdevelop
 dev-util/netbeans
 dev-util/osc
 dev-vcs/git
@@ -47,14 +53,22 @@ dev-vcs/hub
 games-arcade/supertux
 games-rpg/runescape-launcher::fusion809
 games-strategy/0ad
+games-strategy/megaglest
+games-strategy/megaglest-data
 games-strategy/openra
+games-strategy/openra::fusion809
+games-strategy/warzone2100
 games-util/steam-launcher
 kde-apps/kde-apps-meta
+kde-apps/kioclient
 kde-apps/kmix
 kde-apps/konsole
 kde-misc/yakuake
 kde-plasma/plasma-meta
+media-fonts/liberation-fonts
+media-fonts/libertine
 media-gfx/gimp
+media-libs/openal
 media-sound/alsa-utils
 media-sound/blockify
 media-sound/spotify
@@ -70,6 +84,7 @@ perl-core/File-Temp
 sci-mathematics/octave
 sci-mathematics/wxmaxima
 sys-apps/dbus
+sys-apps/flatpak
 sys-apps/lm_sensors
 sys-apps/pacman
 sys-boot/grub
@@ -77,6 +92,8 @@ sys-boot/os-prober
 sys-kernel/dracut
 sys-kernel/gentoo-sources
 sys-libs/glibc
+virtual/jdk
+virtual/jre
 virtual/perl-CPAN-Meta
 virtual/perl-CPAN-Meta-YAML
 virtual/perl-Data-Dumper
@@ -98,6 +115,7 @@ www-client/firefox
 www-client/google-chrome
 www-client/w3m
 x11-apps/mesa-progs
+x11-apps/xhost
 x11-apps/xset
 x11-drivers/nvidia-drivers
 x11-drivers/xf86-video-intel
