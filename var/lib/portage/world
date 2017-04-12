@@ -41,6 +41,7 @@ dev-perl/Text-WrapI18N
 dev-perl/Unicode-EastAsianWidth
 dev-perl/XML-Parser
 dev-perl/libintl-perl
+dev-util/catalyst
 dev-util/codeblocks
 dev-util/codelite
 dev-util/eclipse-cpp-bin
