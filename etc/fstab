@@ -24,5 +24,5 @@
 #       the blkid(8) command.
 
 /dev/sda1       /boot         vfat         rw,relatime,errors=remount-ro                0 2
-/dev/sda2       /             ext4         defaults,noatime                             0 1
-/dev/sdb1       /data         ext4         defaults,noatime                             0 1
+/dev/sda2       /             ext4         defaults                                     0 1
+/dev/sdb1       /data         ext4         defaults                                     0 2
