@@ -37,7 +37,7 @@ systemd-resolve:x:243:
 systemd-timesync:x:242:
 sshd:x:22:
 messagebus:x:241:
-games:x:35:
+games:x:35:fusion809
 cron:x:16:
 dhcp:x:240:
 crontab:x:239:
@@ -53,3 +53,4 @@ mail:x:12:
 postmaster:x:102:
 nullmail:x:88:
 vboxusers:x:101:fusion809
+wesnoth:x:999:

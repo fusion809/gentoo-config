@@ -10,3 +10,10 @@
 =app-office/libreoffice-l10n-5.3.2.2 **
 # required by =app-office/libreoffice-5.3.2.2 (argument)
 =app-office/libreoffice-5.3.2.2 **
+# required by games-strategy/netpanzer (argument)
+=games-strategy/netpanzer-0.8.2 **
+# required by games-strategy/opendungeons (argument)
+=games-strategy/opendungeons-9999 **
+# required by games-strategy/opendungeons-9999::games-overlay
+# required by games-strategy/opendungeons (argument)
+=games-strategy/opendungeons-data-9999 **
