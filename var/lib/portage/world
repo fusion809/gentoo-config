@@ -95,10 +95,12 @@ media-sound/spotify
 media-video/vlc
 net-im/messengerfordesktop-bin
 net-irc/konversation
+net-libs/libtorrent-rasterbar
 net-misc/aria2
 net-misc/keychain
 net-misc/networkmanager
 net-misc/youtube-dl
+net-p2p/ktorrent
 net-print/cups-filters
 net-wireless/broadcom-sta
 perl-core/File-Temp
@@ -138,6 +140,7 @@ www-client/midori
 www-client/w3m
 x11-apps/mesa-progs
 x11-apps/xhost
+x11-apps/xrandr
 x11-apps/xset
 x11-drivers/nvidia-drivers
 x11-drivers/xf86-video-intel
