@@ -28,3 +28,19 @@
 # required by games-strategy/opendungeons-9999::games-overlay
 # required by games-strategy/opendungeons (argument)
 >=dev-games/ogre-1.9.0-r1 cg ois
+# required by media-gfx/hugin-2016.2.0::gentoo
+# required by media-gfx/digikam-5.5.0::gentoo[panorama]
+# required by digikam (argument)
+>=media-libs/vigra-1.11.0 openexr
+# required by media-libs/vigra-1.11.0::gentoo
+# required by media-gfx/enblend-4.2.0_p20161007-r1::gentoo
+# required by media-gfx/hugin-2016.2.0::gentoo
+# required by media-gfx/digikam-5.5.0::gentoo[panorama]
+# required by digikam (argument)
+>=dev-libs/boost-1.63.0 python
+# required by app-emulation/virt-manager-1.4.1::gentoo[gtk]
+# required by virt-manager (argument)
+>=net-misc/spice-gtk-0.33-r1 gtk3 usbredir
+# required by app-emulation/virt-manager-1.4.1::gentoo[gtk]
+# required by virt-manager (argument)
+>=net-libs/gtk-vnc-0.6.0 python

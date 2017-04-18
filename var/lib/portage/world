@@ -13,8 +13,10 @@ app-editors/sublime-text
 app-editors/textadept
 app-editors/vim
 app-editors/visual-studio-code
+app-emulation/libvirt
+app-emulation/playonlinux
+app-emulation/qemu
 app-emulation/virtualbox
-app-emulation/wine-staging
 app-eselect/eselect-blas
 app-eselect/eselect-cblas
 app-eselect/eselect-lapack
@@ -61,6 +63,7 @@ games-fps/alienarena
 games-fps/urbanterror
 games-fps/xonotic
 games-misc/bsd-games
+games-rpg/eternal-lands
 games-rpg/freedroidrpg
 games-rpg/manaplus
 games-rpg/runescape-launcher::fusion809
@@ -75,6 +78,7 @@ games-strategy/netpanzer
 games-strategy/opendungeons-data
 games-strategy/openra
 games-strategy/openra::fusion809
+games-strategy/unknown-horizons
 games-strategy/warzone2100
 games-strategy/wesnoth
 games-util/steam-launcher
@@ -87,6 +91,7 @@ kde-misc/yakuake
 kde-plasma/plasma-meta
 media-fonts/liberation-fonts
 media-fonts/libertine
+media-gfx/digikam
 media-gfx/gimp
 media-libs/openal
 media-sound/alsa-utils

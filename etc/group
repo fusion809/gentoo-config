@@ -54,3 +54,6 @@ postmaster:x:102:
 nullmail:x:88:
 vboxusers:x:101:fusion809
 wesnoth:x:999:
+kvm:x:78:qemu
+qemu:x:77:
+libvirt:x:998:fusion809

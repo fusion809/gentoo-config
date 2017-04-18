@@ -17,3 +17,6 @@
 # required by games-strategy/opendungeons-9999::games-overlay
 # required by games-strategy/opendungeons (argument)
 =games-strategy/opendungeons-data-9999 **
+# required by games-strategy/unknown-horizons-9999::gamerlay
+# required by games-strategy/unknown-horizons (argument)
+=games-engines/fifengine-9999 **
