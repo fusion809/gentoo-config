@@ -1,0 +1,2 @@
+# Per https://bugs.gentoo.org/show_bug.cgi?id=616104
+=dev-python/chardet-3.0.2::gentoo

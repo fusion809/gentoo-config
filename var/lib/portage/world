@@ -22,6 +22,7 @@ app-eselect/eselect-blas
 app-eselect/eselect-cblas
 app-eselect/eselect-lapack
 app-office/libreoffice
+app-portage/eix
 app-portage/gentoolkit
 app-portage/layman
 app-portage/repoman
