@@ -16,6 +16,7 @@ app-editors/visual-studio-code
 app-emulation/libvirt
 app-emulation/playonlinux
 app-emulation/qemu
+app-emulation/virt-manager
 app-emulation/virtualbox
 app-eselect/eselect-blas
 app-eselect/eselect-cblas
@@ -23,6 +24,7 @@ app-eselect/eselect-lapack
 app-office/libreoffice
 app-portage/gentoolkit
 app-portage/layman
+app-portage/repoman
 app-shells/zsh
 app-text/pastebinit
 app-text/po4a
@@ -89,6 +91,8 @@ kde-apps/kmix
 kde-apps/konsole
 kde-misc/yakuake
 kde-plasma/plasma-meta
+media-fonts/corefonts
+media-fonts/croscorefonts
 media-fonts/liberation-fonts
 media-fonts/libertine
 media-gfx/digikam
@@ -106,7 +110,10 @@ net-misc/keychain
 net-misc/networkmanager
 net-misc/youtube-dl
 net-p2p/ktorrent
+net-print/cndrvcups-capt
 net-print/cups-filters
+net-print/gutenprint
+net-print/hplip
 net-wireless/broadcom-sta
 perl-core/File-Temp
 sci-mathematics/octave
@@ -139,6 +146,7 @@ virtual/perl-Parse-CPAN-Meta
 virtual/perl-Perl-OSType
 virtual/perl-Test-Harness
 virtual/perl-Text-ParseWords
+www-client/chromium
 www-client/firefox
 www-client/google-chrome
 www-client/midori

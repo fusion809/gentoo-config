@@ -44,3 +44,6 @@
 # required by app-emulation/virt-manager-1.4.1::gentoo[gtk]
 # required by virt-manager (argument)
 >=net-libs/gtk-vnc-0.6.0 python
+# required by net-print/cndrvcups-capt-2.60-r1::cups
+# required by cndrvcups-capt (argument)
+>=dev-libs/popt-1.16-r2 abi_x86_32

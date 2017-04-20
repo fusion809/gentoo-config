@@ -5,7 +5,7 @@ sys:x:3:root,bin,adm
 adm:x:4:root,adm,daemon
 tty:x:5:
 disk:x:6:root,adm
-lp:x:7:lp
+lp:x:7:lp,fusion809
 mem:x:8:
 kmem:x:9:
 wheel:x:10:root,fusion809
@@ -54,6 +54,6 @@ postmaster:x:102:
 nullmail:x:88:
 vboxusers:x:101:fusion809
 wesnoth:x:999:
-kvm:x:78:qemu
-qemu:x:77:
+kvm:x:78:qemu,fusion809
+qemu:x:77:fusion809
 libvirt:x:998:fusion809
