@@ -18,9 +18,11 @@ app-emulation/playonlinux
 app-emulation/qemu
 app-emulation/virt-manager
 app-emulation/virtualbox
+app-emulation/virtualbox-modules
 app-eselect/eselect-blas
 app-eselect/eselect-cblas
 app-eselect/eselect-lapack
+app-misc/tmux
 app-office/libreoffice
 app-portage/eix
 app-portage/gentoolkit
@@ -72,8 +74,11 @@ games-rpg/manaplus
 games-rpg/runescape-launcher::fusion809
 games-rpg/sumwars
 games-rpg/vendetta-online-bin
+games-sports/speed-dreams
 games-strategy/0ad
 games-strategy/boswars
+games-strategy/freeciv
+games-strategy/freecol
 games-strategy/megaglest
 games-strategy/megaglest-data
 games-strategy/naev
