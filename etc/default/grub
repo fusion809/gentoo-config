@@ -10,6 +10,8 @@
 
 GRUB_DISTRIBUTOR="Gentoo"
 
+# No submenus thanks!
+GRUB_DISABLE_SUBMENU=y
 # Default menu entry
 #GRUB_DEFAULT=0
 

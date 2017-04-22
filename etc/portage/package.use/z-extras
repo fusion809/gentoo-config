@@ -47,3 +47,6 @@
 # required by net-print/cndrvcups-capt-2.60-r1::cups
 # required by cndrvcups-capt (argument)
 >=dev-libs/popt-1.16-r2 abi_x86_32
+# required by media-video/kamoso-3.2.2::gentoo
+# required by kamoso (argument)
+>=media-plugins/gst-plugins-meta-1.10.3 theora v4l

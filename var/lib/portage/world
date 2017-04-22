@@ -19,6 +19,7 @@ app-emulation/qemu
 app-emulation/virt-manager
 app-emulation/virtualbox
 app-emulation/virtualbox-modules
+app-emulation/wine-mono
 app-eselect/eselect-blas
 app-eselect/eselect-cblas
 app-eselect/eselect-lapack
@@ -107,6 +108,7 @@ media-libs/openal
 media-sound/alsa-utils
 media-sound/blockify
 media-sound/spotify
+media-video/kamerka
 media-video/vlc
 net-im/messengerfordesktop-bin
 net-irc/konversation
@@ -116,12 +118,14 @@ net-misc/keychain
 net-misc/networkmanager
 net-misc/youtube-dl
 net-p2p/ktorrent
+net-p2p/qbittorrent
 net-print/cndrvcups-capt
 net-print/cups-filters
 net-print/gutenprint
 net-print/hplip
 net-wireless/broadcom-sta
 perl-core/File-Temp
+sci-chemistry/marvin
 sci-mathematics/octave
 sci-mathematics/wxmaxima
 sys-apps/dbus
