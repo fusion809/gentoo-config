@@ -13,6 +13,7 @@ app-editors/sublime-text
 app-editors/textadept
 app-editors/vim
 app-editors/visual-studio-code
+app-emulation/docker
 app-emulation/libvirt
 app-emulation/playonlinux
 app-emulation/qemu
@@ -27,7 +28,6 @@ app-misc/tmux
 app-office/libreoffice
 app-portage/eix
 app-portage/gentoolkit
-app-portage/layman
 app-portage/repoman
 app-shells/zsh
 app-text/pastebinit
@@ -96,6 +96,7 @@ kde-apps/kde-apps-meta
 kde-apps/kioclient
 kde-apps/kmix
 kde-apps/konsole
+kde-apps/kwalletd
 kde-misc/yakuake
 kde-plasma/plasma-meta
 media-fonts/corefonts
@@ -110,6 +111,7 @@ media-sound/blockify
 media-sound/spotify
 media-video/kamerka
 media-video/vlc
+media-video/webcamoid
 net-im/messengerfordesktop-bin
 net-irc/konversation
 net-libs/libtorrent-rasterbar
@@ -126,6 +128,7 @@ net-print/hplip
 net-wireless/broadcom-sta
 perl-core/File-Temp
 sci-chemistry/marvin
+sci-geosciences/googleearth
 sci-mathematics/octave
 sci-mathematics/wxmaxima
 sys-apps/dbus

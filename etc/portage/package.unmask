@@ -27,3 +27,10 @@
 # NP-Hardass <NP-Hardass@gentoo.org> (10 Apr 2017)
 # Masked for testing
 =app-emulation/wine-staging-2.5
+# required by googleearth (argument)
+# /usr/portage/profiles/package.mask:
+# Julian Ospald <hasufell@gentoo.org> (21 Jul 2013)
+# Mask all unfetchable versions and those with tons of random
+# bugs and segfaults (all). Don't ask for a version bump unless
+# there is a working release.
+=sci-geosciences/googleearth-7.1.8.3036

@@ -1003,7 +1003,7 @@ CONFIG_IP_VS_PROTO_UDP=y
 #
 # IPVS scheduler
 #
-# CONFIG_IP_VS_RR is not set
+CONFIG_IP_VS_RR=m
 # CONFIG_IP_VS_WRR is not set
 # CONFIG_IP_VS_LC is not set
 # CONFIG_IP_VS_WLC is not set

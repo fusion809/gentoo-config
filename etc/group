@@ -57,3 +57,4 @@ wesnoth:x:999:
 kvm:x:78:qemu,fusion809
 qemu:x:77:fusion809
 libvirt:x:998:fusion809
+docker:x:997:fusion809
