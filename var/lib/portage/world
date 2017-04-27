@@ -20,7 +20,6 @@ app-emulation/qemu
 app-emulation/virt-manager
 app-emulation/virtualbox
 app-emulation/virtualbox-modules
-app-emulation/wine-mono
 app-eselect/eselect-blas
 app-eselect/eselect-cblas
 app-eselect/eselect-lapack
@@ -87,7 +86,6 @@ games-strategy/netpanzer
 games-strategy/opendungeons-data
 games-strategy/openra
 games-strategy/openra::fusion809
-games-strategy/unknown-horizons
 games-strategy/warzone2100
 games-strategy/wesnoth
 games-util/steam-launcher
@@ -98,6 +96,8 @@ kde-apps/kmix
 kde-apps/konsole
 kde-apps/kwalletd
 kde-misc/yakuake
+kde-plasma/kmenuedit
+kde-plasma/plasma-desktop
 kde-plasma/plasma-meta
 media-fonts/corefonts
 media-fonts/croscorefonts
@@ -105,6 +105,7 @@ media-fonts/liberation-fonts
 media-fonts/libertine
 media-gfx/digikam
 media-gfx/gimp
+media-libs/glfw
 media-libs/openal
 media-sound/alsa-utils
 media-sound/blockify
@@ -116,12 +117,12 @@ net-im/messengerfordesktop-bin
 net-irc/konversation
 net-libs/libtorrent-rasterbar
 net-misc/aria2
+net-misc/dhcpcd
 net-misc/keychain
 net-misc/networkmanager
 net-misc/youtube-dl
 net-p2p/ktorrent
 net-p2p/qbittorrent
-net-print/cndrvcups-capt
 net-print/cups-filters
 net-print/gutenprint
 net-print/hplip
@@ -135,6 +136,7 @@ sys-apps/dbus
 sys-apps/flatpak
 sys-apps/lm_sensors
 sys-apps/pacman
+sys-apps/sandbox
 sys-boot/grub
 sys-boot/os-prober
 sys-kernel/dracut
