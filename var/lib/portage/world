@@ -126,6 +126,7 @@ net-p2p/qbittorrent
 net-print/cups-filters
 net-print/gutenprint
 net-print/hplip
+net-vpn/tor
 net-wireless/broadcom-sta
 perl-core/File-Temp
 sci-chemistry/marvin
@@ -137,13 +138,16 @@ sys-apps/flatpak
 sys-apps/lm_sensors
 sys-apps/pacman
 sys-apps/sandbox
+sys-apps/usbutils
 sys-boot/grub
 sys-boot/os-prober
+sys-kernel/ck-sources
 sys-kernel/dracut
 sys-kernel/gentoo-sources
 sys-libs/glibc
 virtual/jdk
 virtual/jre
+virtual/libusb
 virtual/perl-CPAN-Meta
 virtual/perl-CPAN-Meta-YAML
 virtual/perl-Data-Dumper
