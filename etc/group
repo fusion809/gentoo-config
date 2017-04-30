@@ -61,3 +61,5 @@ docker:x:997:fusion809
 fusion809:x:1000:
 lock:x:996:
 tor:x:995:
+dnsmasq:x:994:
+radvd:x:993:
