@@ -1,0 +1,19 @@
+<!--
+WARNING: THIS IS AN AUTO-GENERATED FILE. CHANGES TO IT ARE LIKELY TO BE
+OVERWRITTEN AND LOST. Changes to this xml configuration should be made using:
+  virsh pool-edit Exherbo_Linux-1
+or other application using the libvirt API.
+-->
+
+<pool type='dir'>
+  <name>Exherbo_Linux-1</name>
+  <uuid>604ba73e-3523-4cd1-b691-dc77a8d0d0f6</uuid>
+  <capacity unit='bytes'>0</capacity>
+  <allocation unit='bytes'>0</allocation>
+  <available unit='bytes'>0</available>
+  <source>
+  </source>
+  <target>
+    <path>/home/fusion809/VirtualBox VMs/Linux/Exherbo Linux</path>
+  </target>
+</pool>

@@ -1,0 +1,19 @@
+<!--
+WARNING: THIS IS AN AUTO-GENERATED FILE. CHANGES TO IT ARE LIKELY TO BE
+OVERWRITTEN AND LOST. Changes to this xml configuration should be made using:
+  virsh pool-edit Fedora_25
+or other application using the libvirt API.
+-->
+
+<pool type='dir'>
+  <name>Fedora_25</name>
+  <uuid>34608856-8998-45b9-b5de-313fdda49686</uuid>
+  <capacity unit='bytes'>0</capacity>
+  <allocation unit='bytes'>0</allocation>
+  <available unit='bytes'>0</available>
+  <source>
+  </source>
+  <target>
+    <path>/home/fusion809/VirtualBox VMs/Linux/Fedora 25</path>
+  </target>
+</pool>
