@@ -64,6 +64,10 @@ dev-vcs/hub
 games-action/bzflag
 games-action/supertuxkart
 games-arcade/supertux
+games-board/gnome-chess
+games-board/gnuchess
+games-board/pouetchess
+games-board/xboard
 games-fps/alienarena
 games-fps/urbanterror
 games-fps/xonotic
@@ -105,6 +109,7 @@ media-fonts/liberation-fonts
 media-fonts/libertine
 media-gfx/digikam
 media-gfx/gimp
+media-gfx/optipng
 media-libs/glfw
 media-libs/openal
 media-sound/alsa-utils
@@ -141,6 +146,8 @@ sys-apps/sandbox
 sys-apps/usbutils
 sys-boot/grub
 sys-boot/os-prober
+sys-fs/dmg2img
+sys-fs/hfsplusutils
 sys-kernel/ck-sources
 sys-kernel/dracut
 sys-kernel/gentoo-sources
@@ -165,6 +172,7 @@ virtual/perl-Parse-CPAN-Meta
 virtual/perl-Perl-OSType
 virtual/perl-Test-Harness
 virtual/perl-Text-ParseWords
+www-client/brave-bin
 www-client/chromium
 www-client/firefox
 www-client/google-chrome
