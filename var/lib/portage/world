@@ -68,6 +68,7 @@ games-board/gnome-chess
 games-board/gnuchess
 games-board/pouetchess
 games-board/xboard
+games-board/xmahjongg
 games-fps/alienarena
 games-fps/urbanterror
 games-fps/xonotic
@@ -78,6 +79,7 @@ games-rpg/manaplus
 games-rpg/runescape-launcher::fusion809
 games-rpg/sumwars
 games-rpg/vendetta-online-bin
+games-simulation/openttd
 games-sports/speed-dreams
 games-strategy/0ad
 games-strategy/boswars
