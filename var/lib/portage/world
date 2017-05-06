@@ -25,6 +25,7 @@ app-eselect/eselect-cblas
 app-eselect/eselect-lapack
 app-misc/tmux
 app-office/libreoffice
+app-office/libreoffice-l10n
 app-portage/eix
 app-portage/gentoolkit
 app-portage/repoman
@@ -40,6 +41,7 @@ dev-java/oracle-jre-bin
 dev-java/swingx-ws
 dev-lang/mono
 dev-lang/perl
+dev-libs/boost
 dev-libs/libixion
 dev-perl/Locale-gettext
 dev-perl/Module-Build
@@ -73,6 +75,7 @@ games-fps/alienarena
 games-fps/urbanterror
 games-fps/xonotic
 games-misc/bsd-games
+games-rpg/daimonin-client
 games-rpg/eternal-lands
 games-rpg/freedroidrpg
 games-rpg/manaplus
@@ -85,6 +88,7 @@ games-strategy/0ad
 games-strategy/boswars
 games-strategy/freeciv
 games-strategy/freecol
+games-strategy/freeorion
 games-strategy/megaglest
 games-strategy/megaglest-data
 games-strategy/naev
@@ -92,6 +96,7 @@ games-strategy/netpanzer
 games-strategy/opendungeons-data
 games-strategy/openra
 games-strategy/openra::fusion809
+games-strategy/scorched3d
 games-strategy/warzone2100
 games-strategy/wesnoth
 games-util/steam-launcher
@@ -111,6 +116,7 @@ media-fonts/liberation-fonts
 media-fonts/libertine
 media-gfx/digikam
 media-gfx/gimp
+media-gfx/hugin
 media-gfx/optipng
 media-libs/glfw
 media-libs/openal
@@ -140,6 +146,7 @@ sci-chemistry/marvin
 sci-geosciences/googleearth
 sci-mathematics/octave
 sci-mathematics/wxmaxima
+sci-visualization/gnuplot
 sys-apps/dbus
 sys-apps/flatpak
 sys-apps/lm_sensors
@@ -186,6 +193,7 @@ x11-apps/xrandr
 x11-apps/xset
 x11-drivers/nvidia-drivers
 x11-drivers/xf86-video-intel
+x11-libs/wxGTK:3.0
 x11-misc/bumblebee
 x11-misc/obconf
 x11-misc/tint2

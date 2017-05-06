@@ -34,3 +34,10 @@
 # bugs and segfaults (all). Don't ask for a version bump unless
 # there is a working release.
 =sci-geosciences/googleearth-7.1.8.3036
+# required by =app-office/libreoffice-5.3.3.2 (argument)
+# /usr/portage/profiles/package.mask:
+# Andreas Sturmlechner <asturm@gentoo.org> (03 Feb 2017)
+# Drops USE=firebird because it requires not yet packaged Firebird-3.0.
+# Affects libreoffice-base.
+# Bug #586634.
+=app-office/libreoffice-5.3.3.2
