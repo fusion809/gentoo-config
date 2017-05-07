@@ -50,3 +50,6 @@
 # required by media-video/kamoso-3.2.2::gentoo
 # required by kamoso (argument)
 >=media-plugins/gst-plugins-meta-1.10.3 theora v4l
+# required by games-strategy/wargus-2.3.0::gentoo
+# required by games-strategy/wargus-data-0::games-overlay
+>=games-engines/stratagus-2.3.0 theora

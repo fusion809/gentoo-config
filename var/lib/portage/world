@@ -13,7 +13,9 @@ app-editors/sublime-text
 app-editors/textadept
 app-editors/vim
 app-editors/visual-studio-code
+app-emulation/containerd
 app-emulation/docker
+app-emulation/docker-runc
 app-emulation/libvirt
 app-emulation/playonlinux
 app-emulation/qemu
@@ -97,8 +99,10 @@ games-strategy/opendungeons-data
 games-strategy/openra
 games-strategy/openra::fusion809
 games-strategy/scorched3d
+games-strategy/warmux
 games-strategy/warzone2100
 games-strategy/wesnoth
+games-strategy/widelands
 games-util/steam-launcher
 grub2-themes/ask-larry
 kde-apps/kde-apps-meta
@@ -157,10 +161,12 @@ sys-boot/grub
 sys-boot/os-prober
 sys-fs/dmg2img
 sys-fs/hfsplusutils
+sys-fs/lvm2
 sys-kernel/ck-sources
 sys-kernel/dracut
 sys-kernel/gentoo-sources
 sys-libs/glibc
+sys-process/tini
 virtual/jdk
 virtual/jre
 virtual/libusb
