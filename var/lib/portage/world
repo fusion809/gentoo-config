@@ -36,6 +36,7 @@ app-text/pastebinit
 app-text/po4a
 app-text/qpdf
 app-text/wgetpaste
+dev-games/openscenegraph
 dev-java/ant
 dev-java/ant-apache-bsf
 dev-java/oracle-jdk-bin
@@ -74,6 +75,7 @@ games-board/pouetchess
 games-board/xboard
 games-board/xmahjongg
 games-fps/alienarena
+games-fps/openarena::gentoo
 games-fps/urbanterror
 games-fps/xonotic
 games-misc/bsd-games
@@ -83,6 +85,7 @@ games-rpg/freedroidrpg
 games-rpg/manaplus
 games-rpg/runescape-launcher::fusion809
 games-rpg/sumwars
+games-rpg/unix-runescape-client
 games-rpg/vendetta-online-bin
 games-simulation/openttd
 games-sports/speed-dreams
