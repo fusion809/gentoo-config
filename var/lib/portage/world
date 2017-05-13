@@ -33,6 +33,7 @@ app-portage/gentoolkit
 app-portage/repoman
 app-shells/zsh
 app-text/pastebinit
+app-text/pelican
 app-text/po4a
 app-text/qpdf
 app-text/wgetpaste
@@ -56,6 +57,7 @@ dev-perl/Text-WrapI18N
 dev-perl/Unicode-EastAsianWidth
 dev-perl/XML-Parser
 dev-perl/libintl-perl
+dev-python/pyyaml
 dev-util/catalyst
 dev-util/codeblocks
 dev-util/codelite
@@ -76,7 +78,7 @@ games-board/xboard
 games-board/xmahjongg
 games-fps/alienarena
 games-fps/openarena::gentoo
-games-fps/urbanterror
+games-fps/unvanquished
 games-fps/xonotic
 games-misc/bsd-games
 games-rpg/daimonin-client
@@ -87,6 +89,7 @@ games-rpg/runescape-launcher::fusion809
 games-rpg/sumwars
 games-rpg/unix-runescape-client
 games-rpg/vendetta-online-bin
+games-simulation/flightgear
 games-simulation/openttd
 games-sports/speed-dreams
 games-strategy/0ad
@@ -102,10 +105,12 @@ games-strategy/opendungeons-data
 games-strategy/openra
 games-strategy/openra::fusion809
 games-strategy/scorched3d
+games-strategy/spring
 games-strategy/warmux
 games-strategy/warzone2100
 games-strategy/wesnoth
 games-strategy/widelands
+games-util/springlobby
 games-util/steam-launcher
 grub2-themes/ask-larry
 kde-apps/kde-apps-meta
@@ -124,6 +129,7 @@ media-fonts/libertine
 media-gfx/digikam
 media-gfx/gimp
 media-gfx/hugin
+media-gfx/inkscape
 media-gfx/optipng
 media-libs/glfw
 media-libs/openal
