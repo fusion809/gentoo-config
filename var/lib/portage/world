@@ -1,12 +1,13 @@
 app-accessibility/onboard
 app-admin/eselect::gentoo
 app-admin/sudo
+app-admin/sysstat
 app-arch/dpkg
 app-arch/p7zip
-app-editors/atom-bin
 app-editors/brackets-bin
 app-editors/gvim
 app-editors/nano
+app-editors/neovim
 app-editors/notepadqq
 app-editors/scite
 app-editors/sublime-text
@@ -25,6 +26,8 @@ app-emulation/virtualbox-modules
 app-eselect/eselect-blas
 app-eselect/eselect-cblas
 app-eselect/eselect-lapack
+app-misc/linux-logo
+app-misc/screenfetch
 app-misc/tmux
 app-office/libreoffice
 app-office/libreoffice-l10n
@@ -156,6 +159,7 @@ net-vpn/tor
 net-wireless/broadcom-sta
 perl-core/File-Temp
 sci-chemistry/marvin
+sci-chemistry/pymol
 sci-geosciences/googleearth
 sci-mathematics/octave
 sci-mathematics/wxmaxima
@@ -175,6 +179,7 @@ sys-kernel/ck-sources
 sys-kernel/dracut
 sys-kernel/gentoo-sources
 sys-libs/glibc
+sys-power/thermald
 sys-process/tini
 virtual/jdk
 virtual/jre
