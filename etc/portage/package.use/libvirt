@@ -1,2 +1,0 @@
-app-emulation/libvirt -macvtap virt-network -vepa
->=net-dns/dnsmasq-2.76-r1 script

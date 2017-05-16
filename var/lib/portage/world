@@ -13,6 +13,7 @@ app-editors/scite
 app-editors/sublime-text
 app-editors/textadept
 app-editors/vim
+app-editors/vim-core
 app-editors/visual-studio-code
 app-emulation/containerd
 app-emulation/docker
@@ -74,6 +75,7 @@ dev-vcs/hub
 games-action/bzflag
 games-action/supertuxkart
 games-arcade/supertux
+games-board/aisleriot
 games-board/gnome-chess
 games-board/gnuchess
 games-board/pouetchess
