@@ -1,0 +1,24 @@
+# required by app-office/libreoffice-5.3.3.2::gentoo
+# required by =app-office/libreoffice-5.3.3.2 (argument)
+=dev-libs/liborcus-0.12.1 **
+# required by dev-libs/liborcus-0.12.1::gentoo[spreadsheet-model]
+# required by app-office/libreoffice-5.3.3.2::gentoo
+# required by =app-office/libreoffice-5.3.3.2 (argument)
+=dev-libs/libixion-0.12.2 **
+# required by app-office/libreoffice-5.3.3.2::gen
+# required by =app-office/libreoffice-5.3.3.2 (argument)
+=app-office/libreoffice-l10n-5.3.3.1 **
+# required by =app-office/libreoffice-5.3.3.2 (argument)
+=app-office/libreoffice-5.3.3.2 **
+# required by games-strategy/netpanzer (argument)
+=games-strategy/netpanzer-0.8.2 **
+# required by games-strategy/opendungeons (argument)
+=games-strategy/opendungeons-9999 **
+# required by games-strategy/opendungeons-9999::games-overlay
+# required by games-strategy/opendungeons (argument)
+=games-strategy/opendungeons-data-9999 **
+# required by games-strategy/unknown-horizons-9999::gamerlay
+# required by games-strategy/unknown-horizons (argument)
+=games-engines/fifengine-9999 **
+# required by sys-fs/hfsplusutils (argument)
+=sys-fs/hfsplusutils-1.0.4-r1 **
