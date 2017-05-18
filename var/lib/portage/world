@@ -4,6 +4,7 @@ app-admin/sudo
 app-admin/sysstat
 app-arch/dpkg
 app-arch/p7zip
+app-editors/atom-bin
 app-editors/brackets-bin
 app-editors/gvim
 app-editors/nano
@@ -61,10 +62,12 @@ dev-perl/Text-WrapI18N
 dev-perl/Unicode-EastAsianWidth
 dev-perl/XML-Parser
 dev-perl/libintl-perl
+dev-python/pylint
 dev-python/pyyaml
 dev-util/catalyst
 dev-util/codeblocks
 dev-util/codelite
+dev-util/cppcheck
 dev-util/eclipse-cpp-bin
 dev-util/gperf
 dev-util/kdevelop
@@ -145,6 +148,7 @@ media-video/kamerka
 media-video/vlc
 media-video/webcamoid
 net-im/messengerfordesktop-bin
+net-im/pidgin
 net-irc/konversation
 net-libs/libtorrent-rasterbar
 net-misc/aria2
@@ -164,6 +168,7 @@ sci-chemistry/marvin
 sci-chemistry/pymol
 sci-geosciences/googleearth
 sci-mathematics/octave
+sci-mathematics/pspp
 sci-mathematics/wxmaxima
 sci-visualization/gnuplot
 sys-apps/dbus
