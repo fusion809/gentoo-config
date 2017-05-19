@@ -4,9 +4,11 @@ app-admin/sudo
 app-admin/sysstat
 app-arch/dpkg
 app-arch/p7zip
-app-editors/atom-bin
+app-editors/atom-bin:0
+app-editors/atom-bin:1
 app-editors/brackets-bin
 app-editors/gvim
+app-editors/kilo
 app-editors/nano
 app-editors/neovim
 app-editors/notepadqq
@@ -52,6 +54,7 @@ dev-lang/mono
 dev-lang/perl
 dev-libs/boost
 dev-libs/libixion
+dev-libs/sway
 dev-perl/Locale-gettext
 dev-perl/Module-Build
 dev-perl/SGMLSpm
@@ -62,6 +65,7 @@ dev-perl/Text-WrapI18N
 dev-perl/Unicode-EastAsianWidth
 dev-perl/XML-Parser
 dev-perl/libintl-perl
+dev-python/i3weather
 dev-python/pylint
 dev-python/pyyaml
 dev-util/catalyst
@@ -71,6 +75,7 @@ dev-util/cppcheck
 dev-util/eclipse-cpp-bin
 dev-util/gperf
 dev-util/kdevelop
+dev-util/lldb
 dev-util/netbeans
 dev-util/osc
 dev-vcs/git
@@ -84,6 +89,7 @@ games-board/gnuchess
 games-board/pouetchess
 games-board/xboard
 games-board/xmahjongg
+games-engine/wyrmgus
 games-fps/alienarena
 games-fps/openarena::gentoo
 games-fps/unvanquished
@@ -100,6 +106,7 @@ games-rpg/vendetta-online-bin
 games-simulation/flightgear
 games-simulation/openttd
 games-sports/speed-dreams
+games-sports/torcs
 games-strategy/0ad
 games-strategy/boswars
 games-strategy/freeciv
@@ -135,6 +142,7 @@ media-fonts/croscorefonts
 media-fonts/liberation-fonts
 media-fonts/libertine
 media-gfx/digikam
+media-gfx/feh
 media-gfx/gimp
 media-gfx/hugin
 media-gfx/inkscape
@@ -145,10 +153,12 @@ media-sound/alsa-utils
 media-sound/blockify
 media-sound/spotify
 media-video/kamerka
+media-video/mpv
 media-video/vlc
 media-video/webcamoid
 net-im/messengerfordesktop-bin
 net-im/pidgin
+net-irc/irssi
 net-irc/konversation
 net-libs/libtorrent-rasterbar
 net-misc/aria2
@@ -165,6 +175,7 @@ net-vpn/tor
 net-wireless/broadcom-sta
 perl-core/File-Temp
 sci-chemistry/marvin
+sci-chemistry/openbabel
 sci-chemistry/pymol
 sci-geosciences/googleearth
 sci-mathematics/octave
@@ -187,6 +198,7 @@ sys-kernel/dracut
 sys-kernel/gentoo-sources
 sys-libs/glibc
 sys-power/thermald
+sys-process/ps_mem
 sys-process/tini
 virtual/jdk
 virtual/jre
@@ -208,6 +220,7 @@ virtual/perl-Parse-CPAN-Meta
 virtual/perl-Perl-OSType
 virtual/perl-Test-Harness
 virtual/perl-Text-ParseWords
+www-apps/hugo
 www-client/brave-bin
 www-client/chromium
 www-client/firefox
@@ -222,10 +235,22 @@ x11-drivers/nvidia-drivers
 x11-drivers/xf86-video-intel
 x11-libs/wxGTK:3.0
 x11-misc/bumblebee
+x11-misc/dmenu
+x11-misc/i3status
+x11-misc/idesk
+x11-misc/lemonbar
 x11-misc/obconf
+x11-misc/pcmanfm
 x11-misc/tint2
 x11-misc/virtualgl
 x11-misc/xclip
 x11-terms/xterm
 x11-themes/gentoo-artwork
+x11-wm/2bwm
+x11-wm/awesome
+x11-wm/bspwm
+x11-wm/fvwm
+x11-wm/i3
+x11-wm/icewm
+x11-wm/jwm
 x11-wm/openbox
