@@ -89,7 +89,6 @@ games-board/gnuchess
 games-board/pouetchess
 games-board/xboard
 games-board/xmahjongg
-games-engine/wyrmgus
 games-fps/alienarena
 games-fps/openarena::gentoo
 games-fps/unvanquished
@@ -152,6 +151,7 @@ media-libs/openal
 media-sound/alsa-utils
 media-sound/blockify
 media-sound/spotify
+media-video/ffmpegthumbnailer
 media-video/kamerka
 media-video/mpv
 media-video/vlc
@@ -254,3 +254,4 @@ x11-wm/i3
 x11-wm/icewm
 x11-wm/jwm
 x11-wm/openbox
+xfce-base/thunar
