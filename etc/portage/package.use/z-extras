@@ -67,3 +67,18 @@
 # required by app-editors/neovim-0.2.0::gentoo
 # required by neovim (argument)
 >=dev-lua/lpeg-1.0.1 luajit
+# required by app-admin/conky-1.10.6-r2::gentoo[X,nvidia]
+# required by conky (argument)
+>=x11-drivers/nvidia-drivers-381.22 static-libs
+# required by x11-terms/terminator-1.0::gentoo
+# required by terminator (argument)
+>=x11-libs/vte-0.28.2-r208:0 python
+# required by x11-terms/terminator-1.0::gentoo
+# required by terminator (argument)
+>=dev-libs/keybinder-0.3.1-r200:0 python
+# required by app-office/calligra-3.0.1::gentoo[calligra_features_karbon]
+# required by calligra (argument)
+>=media-gfx/pstoedit-3.70-r1 plotutils
+# required by games-strategy/0ad-data-9999::fusion809
+# required by =games-strategy/0ad-data-9999 (argument)
+>=games-strategy/0ad-9999 nvtt

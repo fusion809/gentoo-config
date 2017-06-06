@@ -1,2 +1,2 @@
 # Mask all unstable releases of Chromium
->=www-client/chromium-59
+>=www-client/chromium-60

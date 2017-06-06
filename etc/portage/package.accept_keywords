@@ -22,3 +22,7 @@
 =games-engines/fifengine-9999 **
 # required by sys-fs/hfsplusutils (argument)
 =sys-fs/hfsplusutils-1.0.4-r1 **
+# required by =games-strategy/0ad-data-9999 (argument)
+=games-strategy/0ad-data-9999 **
+# required by =games-strategy/0ad-9999 (argument)
+=games-strategy/0ad-9999 **

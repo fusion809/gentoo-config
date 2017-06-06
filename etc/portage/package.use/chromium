@@ -4,4 +4,4 @@
 # required by www-client/chromium-57.0.2987.133::fusion809[system-libvpx]
 # required by =www-client/chromium-57.0.2987.133 (argument)
 >=media-libs/libvpx-1.6.1 postproc
-
+www-client/chromium -component-build -gtk3
