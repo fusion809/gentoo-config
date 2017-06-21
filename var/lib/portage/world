@@ -97,6 +97,7 @@ games-board/aisleriot
 games-board/gnome-chess
 games-board/gnuchess
 games-board/pouetchess
+games-board/pysolfc
 games-board/xboard
 games-board/xmahjongg
 games-fps/alienarena
@@ -173,6 +174,7 @@ net-im/messengerfordesktop-bin
 net-im/pidgin
 net-irc/irssi
 net-irc/konversation
+net-irc/loqui
 net-libs/libtorrent-rasterbar
 net-misc/aria2
 net-misc/dhcpcd
@@ -187,6 +189,7 @@ net-print/hplip
 net-vpn/tor
 net-wireless/broadcom-sta
 perl-core/File-Temp
+sci-chemistry/jmol
 sci-chemistry/marvin
 sci-chemistry/molsketch
 sci-chemistry/openbabel
@@ -197,6 +200,7 @@ sci-mathematics/pspp
 sci-mathematics/wxmaxima
 sci-visualization/gnuplot
 sys-apps/dbus
+sys-apps/fakeroot
 sys-apps/flatpak
 sys-apps/lm_sensors
 sys-apps/man2html
@@ -210,6 +214,7 @@ sys-fs/dmg2img
 sys-fs/dosfstools
 sys-fs/hfsplusutils
 sys-fs/lvm2
+sys-fs/ntfs3g
 sys-fs/xfsprogs
 sys-kernel/ck-sources
 sys-kernel/dracut

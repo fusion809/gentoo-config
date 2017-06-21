@@ -1,1 +1,2 @@
-sci-chemistry/avogadro python
+sci-chemistry/avogadro -python
+sci-chemistry/molequeue -python

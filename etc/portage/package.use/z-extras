@@ -82,3 +82,6 @@
 # required by games-strategy/0ad-data-9999::fusion809
 # required by =games-strategy/0ad-data-9999 (argument)
 >=games-strategy/0ad-9999 nvtt
+# required by games-board/pysolfc-2.0-r5::gentoo[-minimal]
+# required by pysolfc (argument)
+>=dev-python/pillow-3.4.2-r1 tk

@@ -64,3 +64,4 @@ tor:x:995:
 dnsmasq:x:994:
 radvd:x:993:
 unvanquished-server:x:992:
+ntp:x:123:
