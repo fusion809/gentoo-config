@@ -33,6 +33,7 @@ app-eselect/eselect-blas
 app-eselect/eselect-cblas
 app-eselect/eselect-lapack
 app-misc/linux-logo
+app-misc/ranger
 app-misc/screenfetch
 app-misc/tmux
 app-office/calligra
@@ -50,6 +51,7 @@ app-text/pelican
 app-text/po4a
 app-text/qpdf
 app-text/wgetpaste
+dev-cpp/eigen
 dev-games/openscenegraph
 dev-java/ant
 dev-java/ant-apache-bsf
@@ -175,6 +177,7 @@ net-im/pidgin
 net-irc/irssi
 net-irc/konversation
 net-irc/loqui
+net-irc/weechat
 net-libs/libtorrent-rasterbar
 net-misc/aria2
 net-misc/dhcpcd
@@ -189,6 +192,7 @@ net-print/hplip
 net-vpn/tor
 net-wireless/broadcom-sta
 perl-core/File-Temp
+sci-chemistry/avogadro
 sci-chemistry/jmol
 sci-chemistry/marvin
 sci-chemistry/molsketch

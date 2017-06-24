@@ -25,8 +25,7 @@
 
 /dev/sda1       /boot         vfat         rw,relatime,errors=remount-ro                0 2
 /dev/sda2       /             ext4         defaults                                     0 1
-/dev/sdb1       /data         ext4         defaults                                     0 2
-tmpfs           /tmp          tmpfs        defaults,noatime,size=1G,mode=1777           0 0
+/dev/sdb1       /data         ext4         defaults                                     0 1
 tmpfs           /var/tmp      tmpfs        defaults,noatime,mode=1777                   0 0
 tmpfs           /var/log      tmpfs        defaults,noatime,mode=0755                   0 0
 tmpfs           /var/log/apt  tmpfs        defaults,noatime                             0 0
