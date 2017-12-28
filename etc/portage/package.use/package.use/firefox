@@ -1,0 +1,2 @@
+# Has to be done if ICU 59 & later are to be masked to let net-libs/webkit-gtk-2.4.11-r100 build fine.
+www-client/firefox -system-icu

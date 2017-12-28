@@ -1,0 +1,2 @@
+# Had to mask due to net-libs/webkit-gtk-2.4.11-r100 build failure with icu 60
+>=dev-libs/icu-59.1
